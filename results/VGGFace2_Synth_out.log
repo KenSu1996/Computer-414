@@ -1,0 +1,71 @@
+Epoch: 0 LR: [0.0001]
+Epoch: 0 LR: [0.0001]
+
+Training set: Average loss: 45.01783275604248
+
+
+Validation set: Average loss: 45.15472602844238
+
+Epoch: 1 LR: [0.0001]
+
+Training set: Average loss: 45.101850509643555
+
+
+Validation set: Average loss: 44.51473331451416
+
+Epoch: 2 LR: [0.0001]
+
+Training set: Average loss: 44.273016929626465
+
+
+Validation set: Average loss: 43.14519023895264
+
+Epoch: 3 LR: [0.0001]
+
+Training set: Average loss: 42.797242164611816
+
+
+Validation set: Average loss: 41.09492301940918
+
+Epoch: 4 LR: [0.0001]
+
+Training set: Average loss: 40.82967185974121
+
+
+Validation set: Average loss: 38.53426742553711
+
+Epoch: 5 LR: [0.0001]
+
+Training set: Average loss: 38.60857009887695
+
+
+Validation set: Average loss: 35.914474964141846
+
+Epoch: 6 LR: [0.0001]
+
+Training set: Average loss: 35.99669647216797
+
+
+Validation set: Average loss: 33.304636001586914
+
+Epoch: 7 LR: [0.0001]
+
+Training set: Average loss: 33.46678638458252
+
+
+Validation set: Average loss: 31.125691413879395
+
+Epoch: 8 LR: [0.0001]
+
+Training set: Average loss: 31.468078136444092
+
+
+Validation set: Average loss: 29.24678611755371
+
+Epoch: 9 LR: [1.0000000000000002e-06]
+
+Training set: Average loss: 29.549263954162598
+
+
+Validation set: Average loss: 28.967515468597412
+
